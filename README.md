@@ -1,5 +1,6 @@
 # sentiment-analysis-task
 
+```markdown
 sentiment_analysis/
 │
 ├── api/
@@ -13,6 +14,7 @@ sentiment_analysis/
 │   └── utilities.py
 │
 └── main.py
+```
 
 Module Descriptions
 * api/: This directory contains modules that handle interactions with different APIs (OpenAI, MistralAI, and Transformers).
